@@ -1,0 +1,29 @@
+.header {
+  text-align: center;
+  padding: 10em;
+  overflow: hidden;
+}
+.discription{
+  color: E6E7E8;
+  background-color: black;
+  text-align: center;
+  padding-right:3em;
+  padding-left: 3em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  box-shadow: 1px 1px 21px -9px rgba(0,0,0,1);
+}
+.team{
+  text-align: center;
+  padding: 2em;
+  box-shadow: 1px 1px 21px -9px rgba(0,0,0,1);
+
+}
+
+.card{
+  box-shadow: 1px 1px 21px -9px rgba(0,0,0,1);
+}
+.footer{
+  padding: 2em;
+  background-color: black;
+}
