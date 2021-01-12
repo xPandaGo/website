@@ -27,3 +27,27 @@
   padding: 2em;
   background-color: black;
 }
+.github {
+    text-align: center;
+}
+.github img{
+    padding: 3em;
+    height: 200px;
+    width: 200px;
+    -webkit-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.github:hover img{
+    width: 250px;
+    height: 250px;
+}
+.Social{
+  text-align: center;
+  padding-right:3em;
+  padding-left: 3em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  box-shadow: 1px 1px 21px -9px rgba(0,0,0,1);
+}
